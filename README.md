@@ -1,3 +1,5 @@
+# ENPM673 - Velocity Estimation Using RAFT 
+This project deals with estimating velocity of a single moving car in a video using Classical Approaches as well as a Deep-Learning Based Method (RAFT).
 # RAFT
 The package is based on https://github.com/princeton-vl/RAFT. 
 # dependencies
@@ -68,3 +70,8 @@ RAFT Result
 Combined Result
 
 ![Screenshot (33)](https://github.com/nishantpandey4/Car-speed-calculation-using-RAFT-YOLO/assets/127569735/e2dc3549-a3fd-4e0f-87d5-dab31d3e1368)
+
+# Credits 
+My teammates for thier contributions to this project.
+[Nishant] (https://github.com/nishantpandey4) for making the github repo.
+
